@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Wpf.Ui/2.0.3": {
+        "runtime": {
+          "Wpf.Ui.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Wpf.Ui/2.0.3": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

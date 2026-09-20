@@ -1,0 +1,85 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\HP\\Desktop\\noirstrap-main\\wpfui\\src\\Wpf.Ui\\Wpf.Ui.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\HP\\Desktop\\noirstrap-main\\wpfui\\src\\Wpf.Ui\\Wpf.Ui.csproj": {
+      "version": "2.0.3",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\noirstrap-main\\wpfui\\src\\Wpf.Ui\\Wpf.Ui.csproj",
+        "projectName": "WPF-UI",
+        "projectPath": "C:\\Users\\HP\\Desktop\\noirstrap-main\\wpfui\\src\\Wpf.Ui\\Wpf.Ui.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\noirstrap-main\\wpfui\\src\\Wpf.Ui\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows": {
+            "framework": "net6.0-windows7.0",
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.300"
+      },
+      "frameworks": {
+        "net6.0-windows": {
+          "framework": "net6.0-windows7.0",
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "Microsoft.SourceLink.GitHub": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

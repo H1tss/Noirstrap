@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "gSdqjU+hZUg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\noirstrap-main\\wpfui\\src\\Wpf.Ui\\Wpf.Ui.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.build.tasks.git\\1.1.1\\microsoft.build.tasks.git.1.1.1.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.sourcelink.common\\1.1.1\\microsoft.sourcelink.common.1.1.1.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.sourcelink.github\\1.1.1\\microsoft.sourcelink.github.1.1.1.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,210 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\HP\\Desktop\\noirstrap-main\\Noirstrap\\Noirstrap.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\HP\\Desktop\\noirstrap-main\\Noirstrap\\Noirstrap.csproj": {
+      "version": "3.1.4",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\noirstrap-main\\Noirstrap\\Noirstrap.csproj",
+        "projectName": "Noirstrap",
+        "projectPath": "C:\\Users\\HP\\Desktop\\noirstrap-main\\Noirstrap\\Noirstrap.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\noirstrap-main\\Noirstrap\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows": {
+            "framework": "net6.0-windows7.0",
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\HP\\Desktop\\noirstrap-main\\wpfui\\src\\Wpf.Ui\\Wpf.Ui.csproj": {
+                "projectPath": "C:\\Users\\HP\\Desktop\\noirstrap-main\\wpfui\\src\\Wpf.Ui\\Wpf.Ui.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.300"
+      },
+      "frameworks": {
+        "net6.0-windows": {
+          "framework": "net6.0-windows7.0",
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "AvalonEdit": {
+              "target": "Package",
+              "version": "[6.3.0.90, )"
+            },
+            "CommunityToolkit.Mvvm": {
+              "target": "Package",
+              "version": "[8.4.0, )"
+            },
+            "DiscordRichPresence": {
+              "target": "Package",
+              "version": "[1.6.1.70, )"
+            },
+            "Markdig": {
+              "target": "Package",
+              "version": "[0.40.0, )"
+            },
+            "Microsoft.Data.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.Web.WebView2": {
+              "target": "Package",
+              "version": "[1.0.2792.45, )"
+            },
+            "Microsoft.Windows.CsWin32": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[0.3.183, )"
+            },
+            "SharpVectors.Wpf": {
+              "target": "Package",
+              "version": "[1.8.4.2, )"
+            },
+            "SharpZipLib": {
+              "target": "Package",
+              "version": "[1.4.2, )"
+            },
+            "System.Resources.ResourceManager": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Security.Cryptography.ProtectedData": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "XamlAnimatedGif": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "securifybv.ShellLink": {
+              "target": "Package",
+              "version": "[0.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\HP\\Desktop\\noirstrap-main\\wpfui\\src\\Wpf.Ui\\Wpf.Ui.csproj": {
+      "version": "2.0.3",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\noirstrap-main\\wpfui\\src\\Wpf.Ui\\Wpf.Ui.csproj",
+        "projectName": "WPF-UI",
+        "projectPath": "C:\\Users\\HP\\Desktop\\noirstrap-main\\wpfui\\src\\Wpf.Ui\\Wpf.Ui.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\noirstrap-main\\wpfui\\src\\Wpf.Ui\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows": {
+            "framework": "net6.0-windows7.0",
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.300"
+      },
+      "frameworks": {
+        "net6.0-windows": {
+          "framework": "net6.0-windows7.0",
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "Microsoft.SourceLink.GitHub": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
