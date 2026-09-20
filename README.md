@@ -1,2 +1,3 @@
 # Noirstrap
-jst a nomarl roblox bootstrapper might have more features
+### Nomarl bootstrapper, wait for more features;
+- single dev
